@@ -1,0 +1,29 @@
+nav,
+.hero,
+footer {
+  background-color: #fff0ed;
+}
+button {
+  background-color: #5bacc3;
+  border: none;
+  text-transform: uppercase;
+}
+
+button a {
+  color: white;
+  text-decoration: none;
+}
+
+.card p {
+  color: #5bacc3;
+}
+
+.card img {
+  height: 280px;
+}
+
+.discounted {
+  width: 90%;
+  background-color: #393939;
+  color: white;
+}
